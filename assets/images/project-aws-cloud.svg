@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1128" />
+      <stop offset="50%" stop-color="#1c1917" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+    <linearGradient id="awsGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff9900" />
+      <stop offset="100%" stop-color="#ff5500" />
+    </linearGradient>
+    <linearGradient id="blueGlow3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+    <filter id="glow3" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="800" height="450" fill="url(#bgGrad3)" rx="16" />
+
+  <circle cx="220" cy="140" r="140" fill="#ff9900" opacity="0.14" filter="url(#glow3)" />
+  <circle cx="600" cy="300" r="130" fill="#0284c7" opacity="0.16" filter="url(#glow3)" />
+
+  <!-- Cloud Dashboard Window -->
+  <rect x="70" y="50" width="660" height="350" rx="14" fill="#0f172a" stroke="rgba(255, 153, 0, 0.3)" stroke-width="1.5" />
+  
+  <rect x="70" y="50" width="660" height="42" rx="14" fill="#1e293b" />
+  <circle cx="98" cy="71" r="5" fill="#ef4444" />
+  <circle cx="116" cy="71" r="5" fill="#f59e0b" />
+  <circle cx="134" cy="71" r="5" fill="#10b981" />
+  <text x="160" y="75" fill="#e2e8f0" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">AWS Cloud Champ Club • Innovation &amp; Research Lead</text>
+
+  <!-- Left Main Badge -->
+  <rect x="95" y="110" width="260" height="265" rx="12" fill="rgba(30, 41, 59, 0.85)" stroke="rgba(255, 153, 0, 0.2)" />
+  <rect x="120" y="130" width="55" height="55" rx="12" fill="url(#awsGrad)" />
+  <text x="131" y="167" fill="#ffffff" font-family="'Segoe UI', sans-serif" font-size="28" font-weight="900">☁️</text>
+  <text x="190" y="148" fill="#f8fafc" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">AWS Cloud Champ</text>
+  <text x="190" y="168" fill="#ff9900" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600">Innovation &amp; Research</text>
+
+  <text x="120" y="215" fill="#94a3b8" font-family="'Segoe UI', sans-serif" font-size="11.5">Leadership &amp; Technical Execution:</text>
+  <text x="120" y="238" fill="#e2e8f0" font-family="'Segoe UI', sans-serif" font-size="11">• Mentoring peers on AWS Architecture</text>
+  <text x="120" y="260" fill="#e2e8f0" font-family="'Segoe UI', sans-serif" font-size="11">• Cloud Practitioner certified (AWS)</text>
+  <text x="120" y="282" fill="#e2e8f0" font-family="'Segoe UI', sans-serif" font-size="11">• Containerized apps with Docker &amp; CI/CD</text>
+  <text x="120" y="304" fill="#e2e8f0" font-family="'Segoe UI', sans-serif" font-size="11">• Scalable backend solutions</text>
+
+  <rect x="120" y="325" width="210" height="30" rx="6" fill="#0f172a" stroke="rgba(255, 153, 0, 0.3)" />
+  <text x="135" y="344" fill="#ff9900" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="bold">🏆 Core Member &amp; Lead</text>
+
+  <!-- Right Architecture Grid -->
+  <rect x="375" y="110" width="330" height="125" rx="10" fill="rgba(30, 41, 59, 0.75)" stroke="rgba(255,255,255,0.06)" />
+  <text x="395" y="135" fill="#38bdf8" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="bold">CLOUD CAPABILITIES &amp; STACK</text>
+  
+  <g transform="translate(395, 148)">
+    <rect x="0" y="0" width="90" height="26" rx="5" fill="#1e1b4b" />
+    <text x="10" y="17" fill="#a78bfa" font-family="'Segoe UI', sans-serif" font-size="10">EC2 &amp; S3 Storage</text>
+
+    <rect x="100" y="0" width="90" height="26" rx="5" fill="#064e3b" />
+    <text x="110" y="17" fill="#6ee7b7" font-family="'Segoe UI', sans-serif" font-size="10">Docker Containers</text>
+
+    <rect x="200" y="0" width="90" height="26" rx="5" fill="#1e293b" />
+    <text x="210" y="17" fill="#38bdf8" font-family="'Segoe UI', sans-serif" font-size="10">Git &amp; GitHub Actions</text>
+
+    <rect x="0" y="34" width="140" height="26" rx="5" fill="#1e293b" />
+    <text x="10" y="51" fill="#f8fafc" font-family="'Segoe UI', sans-serif" font-size="10">IIT Madras Cloud Computing</text>
+
+    <rect x="150" y="34" width="140" height="26" rx="5" fill="#1e293b" />
+    <text x="160" y="51" fill="#facc15" font-family="'Segoe UI', sans-serif" font-size="10">Full Stack MERN Deploy</text>
+  </g>
+
+  <!-- Right Bottom Terminal Visual -->
+  <rect x="375" y="250" width="330" height="125" rx="10" fill="#090d16" stroke="rgba(56, 189, 248, 0.25)" />
+  <text x="395" y="275" fill="#22c55e" font-family="monospace" font-size="11">$ aws --version &amp;&amp; docker run -d app</text>
+  <text x="395" y="295" fill="#94a3b8" font-family="monospace" font-size="10.5">&gt; aws-cli/2.15.0 Python/3.11.8 Linux/x86_64</text>
+  <text x="395" y="313" fill="#38bdf8" font-family="monospace" font-size="10.5">&gt; Container status: HEALTHY (Port 8080-&gt;80)</text>
+  <text x="395" y="331" fill="#a855f7" font-family="monospace" font-size="10.5">&gt; Deploy: 100% Free Lifetime CDN Ready ✔</text>
+  <text x="395" y="350" fill="#e2e8f0" font-family="monospace" font-size="10.5">&gt; SSL Status: ACTIVE (A+ Grade)</text>
+</svg>
