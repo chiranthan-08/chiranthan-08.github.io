@@ -22,4 +22,4 @@ User-agent: YandexBot
 Allow: /
 
 # Sitemap URL
-Sitemap: https://chiranthansiddu.github.io/sitemap.xml
+Sitemap: https://chiranthan-08.github.io/sitemap.xml

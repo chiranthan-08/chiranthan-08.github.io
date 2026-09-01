@@ -6,51 +6,40 @@ This guide provides step-by-step instructions to deploy your portfolio website f
 
 ## 🚀 Part 1: Top 3 100% Free Lifetime Hosting Platforms
 
-You can choose any of these three industry-standard platforms. All of them provide free lifetime hosting, free SSL certificates (HTTPS), and global CDN fast loading speeds.
-
 ### Option A: GitHub Pages (Recommended — 100% Free Forever)
 
 **Why GitHub Pages?**
-- Hosted directly from your GitHub repository.
-- Free URL: `https://<your-username>.github.io` (or `https://<your-username>.github.io/portfolio`)
-- 100% free forever, no hidden costs.
+- Hosted directly from your GitHub account: `https://github.com/chiranthan-08`
+- Free URL: `https://chiranthan-08.github.io`
+- 100% free forever, no hidden costs, automatic SSL/HTTPS.
 
 **Step-by-step setup:**
-1. **Create a GitHub account** at [github.com](https://github.com/) if you haven't already.
-2. **Create a new public repository**:
-   - Go to GitHub -> Click **"+"** -> **New repository**.
-   - If you want the site URL to be `https://<your-username>.github.io`, name the repository exactly: `<your-username>.github.io` (replace `<your-username>` with your actual GitHub username, e.g., `chiranthansiddu.github.io`).
-   - Set repository visibility to **Public**.
-3. **Upload/Push your project files**:
+1. **Create a GitHub repository**:
+   - Go to [github.com/new](https://github.com/new).
+   - Repository name: `chiranthan-08.github.io` (or any name you prefer).
+   - Set visibility to **Public**.
+2. **Push your project**:
    - Open your terminal in this folder (`kali folder`) and run:
    ```bash
-   git init
    git add .
-   git commit -m "Initial commit of professional portfolio website"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+   git commit -m "Update portfolio with official PDF resume and social links"
+   git remote add origin https://github.com/chiranthan-08/chiranthan-08.github.io.git
    git push -u origin main
    ```
-4. **Enable GitHub Pages**:
-   - Go to your repository on GitHub.
+3. **Enable GitHub Pages**:
+   - Go to your repository: `https://github.com/chiranthan-08/chiranthan-08.github.io`
    - Click **Settings** (top tab) -> Scroll down to **Pages** (left sidebar).
    - Under **Build and deployment** -> **Source**, select **Deploy from a branch**.
    - Under **Branch**, select `main` and folder `/ (root)`, then click **Save**.
-5. **Live!** In about 60 seconds, your site will be live at `https://<your-username>.github.io/` with active HTTPS.
+4. **Live!** In about 60 seconds, your site will be live at `https://chiranthan-08.github.io/` with active HTTPS.
 
 ---
 
 ### Option B: Vercel (Ultra-Fast Global Edge CDN — 100% Free Forever)
 
-**Why Vercel?**
-- One-click instant deployment with automatic updates whenever you push code.
-- Free URL: `https://chiranthan-portfolio.vercel.app` (customizable).
-- Unlimited personal use forever.
-
-**Step-by-step setup:**
-1. Go to [vercel.com](https://vercel.com/) and click **Sign Up** (Sign in with your GitHub account).
+1. Go to [vercel.com](https://vercel.com/) and sign in with your GitHub (`chiranthan-08`).
 2. Click **Add New...** -> **Project**.
-3. Import your GitHub repository (`chiranthansiddu.github.io` or `kali folder`).
+3. Import your GitHub repository (`chiranthan-08.github.io`).
 4. Click **Deploy**.
 5. In 15 seconds, your site is live with an A+ speed score worldwide!
 
@@ -59,7 +48,8 @@ You can choose any of these three industry-standard platforms. All of them provi
 ### Option C: Netlify (Free Drag & Drop or Git Deploy)
 
 1. Go to [netlify.com](https://www.netlify.com/) and sign up.
-2. You can literally drag and drop this entire folder into Netlify Drop ([app.netlify.com/drop](https://app.netlify.com/drop)), and it goes live immediately with a free `.netlify.app` link.
+2. Drag and drop this entire folder into Netlify Drop ([app.netlify.com/drop](https://app.netlify.com/drop)).
+3. It goes live immediately with a free `.netlify.app` link.
 
 ---
 
@@ -71,10 +61,8 @@ To make your website show up when anyone types **"Chiranthan Siddu K S"**, **"Ch
 1. Open [Google Search Console](https://search.google.com/search-console/).
 2. Sign in with your Google account (`chiranthansiddu20@gmail.com`).
 3. Click **Add Property** in the top left dropdown.
-4. Select **URL prefix** and enter your live site address (e.g., `https://chiranthansiddu.github.io/` or `https://chiranthan-portfolio.vercel.app/`).
-5. Choose verification method:
-   - **HTML tag**: Copy the meta tag provided by Google and paste it inside the `<head>` of your `index.html`, then commit/push and click **Verify**.
-   - Or if using GitHub/custom domain, verify via DNS or GitHub authorization.
+4. Select **URL prefix** and enter your live site address: `https://chiranthan-08.github.io/`.
+5. Verify ownership (using HTML Tag or GitHub authorization).
 
 ### Step 2: Submit Your Sitemap
 1. Inside Google Search Console, click **Sitemaps** in the left navigation menu.
@@ -84,7 +72,7 @@ To make your website show up when anyone types **"Chiranthan Siddu K S"**, **"Ch
 4. Status will change to **"Success"** — Googlebot will immediately begin indexing all your sections, keywords, and metadata.
 
 ### Step 3: Request Immediate URL Inspection & Indexing
-1. At the top of Google Search Console, paste your homepage URL in the search bar ("Inspect any URL in...").
+1. At the top of Google Search Console, paste `https://chiranthan-08.github.io/` in the search bar.
 2. Press Enter -> Click **Request Indexing**.
 3. Google will put your site in high-priority crawling queue.
 
@@ -95,9 +83,9 @@ To make your website show up when anyone types **"Chiranthan Siddu K S"**, **"Ch
 
 ---
 
-## ⚡ What Makes Your Website Search-Engine Friendly (Already Implemented)
-
-1. **Schema.org JSON-LD Structured Data**: Embedded in `<head>` informing Google that this site is an official `Person` and `ProfilePage` for *Chiranthan Siddu K S*.
-2. **Robots.txt & Sitemap.xml**: Full instructions for Googlebot, Bingbot, and web crawlers.
-3. **OpenGraph & Twitter Card Meta Tags**: When you share your link on WhatsApp, LinkedIn, or Twitter, it displays a rich preview card with your photo and title.
-4. **100% Responsive & Lightning Fast**: Pure HTML5, Vanilla CSS, and lightweight JS ensures 100/100 Google Core Web Vitals score, giving you maximum SEO ranking advantage.
+## ⚡ Your Verified Links & Profiles
+- **Instagram**: [instagram.com/chiranth__08](https://www.instagram.com/chiranth__08?igsi=bzJ2NG1iZ2UzMDkx)
+- **LinkedIn**: [linkedin.com/in/chiranthan-siddu-k-s-123497302](https://www.linkedin.com/in/chiranthan-siddu-k-s-123497302)
+- **GitHub**: [github.com/chiranthan-08](https://github.com/chiranthan-08)
+- **Email**: [chiranthansiddu20@gmail.com](mailto:chiranthansiddu20@gmail.com)
+- **Official PDF Resume**: [`assets/Chiranthan_Siddu_Resume.pdf`](assets/Chiranthan_Siddu_Resume.pdf)

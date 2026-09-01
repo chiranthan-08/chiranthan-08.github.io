@@ -720,6 +720,13 @@ button, input, textarea {
   box-shadow: 0 0 20px rgba(37, 211, 102, 0.5);
 }
 
+.social-btn.instagram:hover {
+  background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 0 20px rgba(220, 39, 67, 0.55);
+}
+
 /* --- Hero Portrait Visual --- */
 .hero-visual {
   display: flex;
@@ -1624,6 +1631,7 @@ button, input, textarea {
 .phone-icon { background: rgba(16, 185, 129, 0.15); color: var(--emerald-primary); }
 .linkedin-icon { background: rgba(10, 102, 194, 0.2); color: #0a66c2; }
 .github-icon { background: rgba(255, 255, 255, 0.1); color: #fff; }
+.instagram-icon { background: rgba(225, 48, 108, 0.18); color: #e1306c; }
 
 .method-details {
   flex: 1;
