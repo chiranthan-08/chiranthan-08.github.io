@@ -420,7 +420,7 @@ document.addEventListener('DOMContentLoaded', () => {
       // Format mailto link
       const encodedSubject = encodeURIComponent(`[Portfolio Contact] ${subject}`);
       const encodedBody = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`);
-      const mailtoUrl = `mailto:chiranthansiddu20@gmail.com?subject=${encodedSubject}&body=${encodedBody}`;
+      const mailtoUrl = `mailto:chiranthansiddu99@gmail.com?subject=${encodedSubject}&body=${encodedBody}`;
 
       // Open email client
       window.location.href = mailtoUrl;

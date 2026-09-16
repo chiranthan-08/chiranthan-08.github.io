@@ -47,12 +47,12 @@
   <rect x="580" y="55" width="130" height="22" rx="6" fill="rgba(16, 185, 129, 0.2)" stroke="#10b981" />
   <text x="592" y="70" fill="#34d399" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="bold">● LIVE ATTENDANCE</text>
 
-  <!-- Left Stats & AI Assistant -->
+  <!-- Left Stats and AI Assistant -->
   <rect x="95" y="105" width="200" height="135" rx="10" fill="rgba(30, 41, 59, 0.7)" stroke="rgba(255,255,255,0.06)" />
   <text x="110" y="130" fill="#38bdf8" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="bold">🤖 AI EVENT PLANNER</text>
   <rect x="110" y="142" width="170" height="45" rx="6" fill="#0f172a" />
   <text x="118" y="158" fill="#a78bfa" font-family="'Segoe UI', sans-serif" font-size="9.5">"AI generated optimal schedule,</text>
-  <text x="118" y="174" fill="#e2e8f0" font-family="'Segoe UI', sans-serif" font-size="9.5">booth layouts & speaker flow."</text>
+  <text x="118" y="174" fill="#e2e8f0" font-family="'Segoe UI', sans-serif" font-size="9.5">booth layouts &amp; speaker flow."</text>
   <rect x="110" y="198" width="80" height="22" rx="5" fill="url(#neonEmerald)" />
   <text x="120" y="213" fill="#042f2e" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="bold">Auto Plan ⚡</text>
 
@@ -64,14 +64,14 @@
   <text x="120" y="306" fill="#c084fc" font-family="'Segoe UI', sans-serif" font-size="10">👑 Administrators: Full Gov</text>
   
   <rect x="110" y="320" width="170" height="24" rx="5" fill="#064e3b" />
-  <text x="120" y="336" fill="#6ee7b7" font-family="'Segoe UI', sans-serif" font-size="10">🎯 Organisers: Analytics & Check-in</text>
+  <text x="120" y="336" fill="#6ee7b7" font-family="'Segoe UI', sans-serif" font-size="10">🎯 Organisers: Analytics &amp; Check-in</text>
 
   <rect x="110" y="350" width="170" height="24" rx="5" fill="#1e293b" />
   <text x="120" y="366" fill="#93c5fd" font-family="'Segoe UI', sans-serif" font-size="10">👥 Users: Geolocation Discovery</text>
 
-  <!-- Right Event Stream & Live Attendance Grid -->
+  <!-- Right Event Stream and Live Attendance Grid -->
   <rect x="315" y="105" width="395" height="155" rx="10" fill="rgba(30, 41, 59, 0.7)" stroke="rgba(255,255,255,0.06)" />
-  <text x="330" y="130" fill="#f8fafc" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="bold">📍 Geolocation Discovery & Live Venue Map</text>
+  <text x="330" y="130" fill="#f8fafc" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="bold">📍 Geolocation Discovery &amp; Live Venue Map</text>
   
   <!-- Mini Map Box -->
   <rect x="330" y="145" width="170" height="100" rx="8" fill="#090d16" stroke="rgba(56, 189, 248, 0.3)" />

@@ -59,7 +59,7 @@ To make your website show up when anyone types **"Chiranthan Siddu K S"**, **"Ch
 
 ### Step 1: Add Site to Google Search Console
 1. Open [Google Search Console](https://search.google.com/search-console/).
-2. Sign in with your Google account (`chiranthansiddu20@gmail.com`).
+2. Sign in with your Google account (`chiranthansiddu99@gmail.com`).
 3. Click **Add Property** in the top left dropdown.
 4. Select **URL prefix** and enter your live site address: `https://chiranthan-08.github.io/`.
 5. Verify ownership (using HTML Tag or GitHub authorization).
@@ -87,5 +87,5 @@ To make your website show up when anyone types **"Chiranthan Siddu K S"**, **"Ch
 - **Instagram**: [instagram.com/chiranth__08](https://www.instagram.com/chiranth__08?igsi=bzJ2NG1iZ2UzMDkx)
 - **LinkedIn**: [linkedin.com/in/chiranthan-siddu-k-s-123497302](https://www.linkedin.com/in/chiranthan-siddu-k-s-123497302)
 - **GitHub**: [github.com/chiranthan-08](https://github.com/chiranthan-08)
-- **Email**: [chiranthansiddu20@gmail.com](mailto:chiranthansiddu20@gmail.com)
+- **Email**: [chiranthansiddu99@gmail.com](mailto:chiranthansiddu99@gmail.com)
 - **Official PDF Resume**: [`assets/Chiranthan_Siddu_Resume.pdf`](assets/Chiranthan_Siddu_Resume.pdf)
