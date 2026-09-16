@@ -43,4 +43,9 @@ To preview locally:
   Then visit `http://localhost:8000`.
 
 ## 🚀 Free Deployment & Google Search Indexing
-See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) for full instructions on publishing to **GitHub Pages** or **Vercel** and submitting to **Google Search Console**.
+- **Live Netlify URL**: [https://myportfolio-2145.netlify.app/](https://myportfolio-2145.netlify.app/)
+- **One-Command Netlify Deploy**:
+  ```bash
+  npm run deploy:netlify
+  ```
+- See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) for full instructions on publishing to **Netlify**, **GitHub Pages**, or **Vercel** and submitting to **Google Search Console**.

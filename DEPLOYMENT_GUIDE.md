@@ -45,11 +45,15 @@ This guide provides step-by-step instructions to deploy your portfolio website f
 
 ---
 
-### Option C: Netlify (Free Drag & Drop or Git Deploy)
+### Option C: Netlify (Live at https://myportfolio-2145.netlify.app/)
 
-1. Go to [netlify.com](https://www.netlify.com/) and sign up.
-2. Drag and drop this entire folder into Netlify Drop ([app.netlify.com/drop](https://app.netlify.com/drop)).
-3. It goes live immediately with a free `.netlify.app` link.
+1. **Live Production URL**: [https://myportfolio-2145.netlify.app/](https://myportfolio-2145.netlify.app/)
+2. **Instant 1-Command Production Deploy**:
+   ```bash
+   npm run deploy:netlify
+   ```
+   This automatically packages and uploads all current local files and sets them live on `myportfolio-2145.netlify.app` instantly.
+3. **Drag & Drop Alternative**: Drag and drop this folder into Netlify Drop ([app.netlify.com/drop](https://app.netlify.com/drop)).
 
 ---
 
@@ -84,6 +88,7 @@ To make your website show up when anyone types **"Chiranthan Siddu K S"**, **"Ch
 ---
 
 ## ⚡ Your Verified Links & Profiles
+- **Live Netlify Portfolio**: [myportfolio-2145.netlify.app](https://myportfolio-2145.netlify.app/)
 - **Instagram**: [instagram.com/chiranth__08](https://www.instagram.com/chiranth__08?igsi=bzJ2NG1iZ2UzMDkx)
 - **LinkedIn**: [linkedin.com/in/chiranthan-siddu-k-s-123497302](https://www.linkedin.com/in/chiranthan-siddu-k-s-123497302)
 - **GitHub**: [github.com/chiranthan-08](https://github.com/chiranthan-08)
