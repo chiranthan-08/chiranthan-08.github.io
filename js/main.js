@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', () => {
       title: 'AI-Powered Event Management Platform',
       badge: 'Full Stack MERN + AI',
       category: 'AI & Full Stack Application',
-      image: 'assets/images/project-event-ai.svg',
+      image: 'assets/images/project-event-ai.jpg',
       description: 'An intelligent event planning and attendance ecosystem built with React.js, Node.js, Express.js, and MongoDB, augmented by AI optimization.',
       highlights: [
         'Engineered an AI-powered schedule & logistics generator to assist organizers in planning venue capacity, time slots, and speaker agendas.',
